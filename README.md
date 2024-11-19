@@ -11,16 +11,13 @@ HTML5: For structuring content effectively.
 CSS3: To enhance visual appeal with advanced styling.
 JavaScript: Adds interactivity and functionality.
 How to Use 💻
-Clone the repository:
 
-bash
-Copy code
+1. Clone the repository:
 git clone https://github.com/Decil04/Home-Page-of-Fitness-
-Navigate to the project directory:
 
-bash
-Copy code
+2. Navigate to the project directory:
 cd Home-Page-of-Fitness
+
 Open the index.html file in your favorite browser.
 
 Contributions 🤝

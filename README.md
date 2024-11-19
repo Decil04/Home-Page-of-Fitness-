@@ -32,6 +32,6 @@ For any inquiries or suggestions, please feel free to reach out:
 GitHub: @Decil04
 Email: whitedragon2348@gmail.com
 
-# Challenge 
+# Platform
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/red_dragon-2348/pen/rNPQQwg](https://codepen.io/red_dragon-2348/pen/rNPQQwg).
